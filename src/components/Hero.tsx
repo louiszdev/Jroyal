@@ -1,10 +1,10 @@
 import { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import heroVideo1 from "@assets/Jroyals_Location_1780433079080.mp4";
-import heroVideo2 from "@assets/Coconut_Rice_paired_with_Peppered_Chicken_To_order,_send_a_mes_1780433097683.mp4";
-import heroVideo3 from "@assets/Welcome_to_Our_Fine_Dining.Experience_not_just_exquisite_food__1780433128349.mp4";
-import heroVideo4 from "@assets/Good_food_from_the_best_restaurant_in_Nsukka_Stir_fry_spaghett_1780433147875.mp4";
+import heroVideo1 from "@assets/hero1.mp4";
+import heroVideo2 from "@assets/hero2.mp4";
+import heroVideo3 from "@assets/hero3.mp4";
+import heroVideo4 from "@assets/hero4.mp4";
 
 gsap.registerPlugin(ScrollTrigger);
 
